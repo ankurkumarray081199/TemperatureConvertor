@@ -1,0 +1,27 @@
+body{
+    background:  url(img/bg-9.jpg);
+    opacity:0.9;
+}
+ 
+#dig-clock {
+  align-items: center;
+  display: flex;
+  flex-wrap: wrap;
+  height: 30vh;
+  justify-content: center;
+}
+.time {
+  height: 80px;
+  text-align: center;
+  width: 80px;
+}
+.big-text {
+  font-size: 40px;
+  font-family: "Times New Roman", Times, serif;
+  font-weight: bolder;
+  margin: 0;
+}
+.am_pm {
+  padding-top: 20px;
+  padding-right: 50px;
+}
